@@ -1,3 +1,13 @@
+pwd : mostra caminho absoluto atual
+cat : mostra o conteúdo do arquivo
+ls : lista os arquivos no diretório atual
+cd : muda o endereço do diretório atual
+
+
 git add : preparando para colocar na commit
-git commit -m <descrição> - criar commit
+git commit -m <descrição> - criar commit da arvore
 git status - listar status
+git config : alterar configuração
+rm : remove arquivo ou diretório 
+
+nano : editor de texto do bash
