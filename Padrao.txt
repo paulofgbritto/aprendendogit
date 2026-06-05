@@ -1,5 +1,8 @@
 1. Premissa J
-2. Premissa B
+2. Premissa BG
 3. Premissa C
 4. Premissa Z
 5. Premissa E
+6. Premissa F
+
+Essas são todas as premissas que foram introduzidas no código.
