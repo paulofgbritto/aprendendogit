@@ -9,3 +9,6 @@ bem no projeto do Thiago Magela.
 É, esqueci de mudar de branch, agora foi.
 ah sim
 
+
+Apenas seguindo as intruções...
+
